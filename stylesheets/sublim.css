@@ -42,3 +42,69 @@
   width: 650px;
   margin-top: 0px;
 }
+/* line 53, ../sass/sublim.scss */
+.PositionRelat center .band {
+  background-color: #ccc;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15) inset;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+/* line 60, ../sass/sublim.scss */
+.PositionRelat center .anim_caption {
+  font-size: 15px;
+  height: 62px;
+  margin-top: 7px;
+  text-align: left;
+  width: 800px;
+}
+/* line 67, ../sass/sublim.scss */
+.PositionRelat center .anim_caption .controls {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+  float: right;
+  height: 23px;
+  margin-left: 10px;
+  text-align: center;
+  width: 100px;
+}
+/* line 76, ../sass/sublim.scss */
+.PositionRelat center .anim_caption .controls .skip {
+  position: relative;
+  text-decoration: none;
+  top: -1px;
+  color: black;
+}
+/* line 86, ../sass/sublim.scss */
+.PositionRelat center .anim_caption .content .content1 {
+  display: none;
+}
+/* line 96, ../sass/sublim.scss */
+.PositionRelat center .download_bar .download-container {
+  padding-bottom: 10px;
+  padding-top: 20px;
+  position: relative;
+  width: 500px;
+}
+/* line 102, ../sass/sublim.scss */
+.PositionRelat center .download_bar .download-container .download {
+  background: transparent linear-gradient(to bottom, #afd9fa 0%, #588fad 100%) repeat scroll 0 0;
+  border: 1px solid #3a75b1;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), 0 0 1px white inset;
+  color: #123d54;
+  font-size: 24px;
+  padding: 5px;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.7), 0 1px 0 rgba(255, 255, 255, 0.3);
+  width: 300px;
+}
+/* line 113, ../sass/sublim.scss */
+.PositionRelat center .download_bar .download-container .download .show_64 {
+  color: #123d54;
+  font-size: 24px;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.7), 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+/* line 118, ../sass/sublim.scss */
+.PositionRelat center .download_bar .download-container .download .show_64 a {
+  color: #123d54;
+  text-decoration: none;
+}
